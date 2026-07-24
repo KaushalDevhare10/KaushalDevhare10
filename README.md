@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaushalDevhare10&show_icons=true&theme=github_dark)
+https://github-readme-stats.vercel.app/api?username=KaushalDevhare10&show_icons=true&theme=github_dark
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaushalDevhare10&layout=compact&theme=github_dark)
 
@@ -36,8 +36,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(Add your LinkedIn profile link here)*
-- Email: *(Add your email here)*
+- Email: devharekaushal@gmail.com
 
 ---
 ⭐ Thanks for visiting my GitHub profile!
