@@ -31,6 +31,7 @@
 ## 📫 Connect With Me
 
 - Email: devharekaushal@gmail.com
+- Linkedin: www.linkedin.com/in/kaushal-devhare-b1b161374
 
 ---
 ⭐ Thanks for visiting my GitHub profile!
