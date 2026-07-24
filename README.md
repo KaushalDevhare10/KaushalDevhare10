@@ -26,9 +26,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaushalDevhare10&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=KaushalDevhare10&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaushalDevhare10&layout=compact&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaushalDevhare10&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🔥 GitHub Streak
 
