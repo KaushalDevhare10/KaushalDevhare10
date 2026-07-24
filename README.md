@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 
-![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaushalDevhare10&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaushalDevhare10&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaushalDevhare10&layout=compact&theme=github_dark)
 
